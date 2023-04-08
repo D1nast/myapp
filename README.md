@@ -3,9 +3,9 @@
 A high-productivity web framework for the [Go language](http://www.golang.org/).
 
 ### GOの環境
-Revel Framework :       Unknown (1.1.0 remote master branch)
-Revel Cmd       :       1.1.2   (1.1.2 remote master branch)
-Revel Modules   :       Unknown (1.1.0 remote master branch)
+Revel Framework :       Unknown (1.1.0 remote master branch)<br>
+Revel Cmd       :       1.1.2   (1.1.2 remote master branch)<br>
+Revel Modules   :       Unknown (1.1.0 remote master branch)<br>
 
 ### Start the web server:
 
